@@ -1,4 +1,4 @@
-name: Update Submodules
+name: update-submodules
 
 on:
   schedule:
