@@ -1,0 +1,29 @@
+name: Update Submodules
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'  # Runs at midnight every three days
+  workflow_dispatch:  # Allows manual triggering from GitHub UI
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # Ensures we fetch all history for all branches and tags
+
+    - name: Update submodules
+      run: |
+        git submodule update --init --recursive
+        git submodule foreach git pull origin main
+
+    - name: Commit and push if changes are present
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add .
+        git commit -m "Updated submodules" -a || echo "No changes to commit"
+        git push || echo "No changes to push"
