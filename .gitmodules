@@ -1,3 +1,6 @@
 [submodule "nd-aimm-main-computer"]
 	path = nd-aimm-main-computer
 	url = https://github.com/starlight-traveler/nd-aimm-main-computer.git
+[submodule "nd-aimm-jupyter-notebooks"]
+	path = nd-aimm-jupyter-notebooks
+	url = https://github.com/starlight-traveler/nd-aimm-jupyter-notebooks.git
