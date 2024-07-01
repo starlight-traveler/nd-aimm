@@ -4,3 +4,6 @@
 [submodule "nd-aimm-computer-auxiliary-one"]
 	path = nd-aimm-computer-auxiliary-one
 	url = https://github.com/starlight-traveler/nd-aimm-computer-auxiliary-one.git
+[submodule "nd-aimm-main-computer"]
+	path = nd-aimm-main-computer
+	url = https://github.com/starlight-traveler/nd-aimm.git
