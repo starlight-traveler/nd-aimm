@@ -74,14 +74,7 @@ Please review the getting started documentation at [Getting Started](https://sta
 
 <!-- ROADMAP -->
 
-## Roadmap
-
-- [X] Add documentation
-- [X] Finish flatbuffers
-- [X] Add C++ OpenCV support
-- [ ] Merge Yolov8 & depth fusion
-- [ ] Add Kalman Filter support to fusion algorithm
-- [ ] SLAM
+## Assignments
 
 See the [open issues](https://github.com/starlight-traveler/nd-aimm-main-computer/issues) for a full list of proposed features (and known issues).
 
