@@ -17,8 +17,10 @@ jobs:
 
     - name: Update submodules
       run: |
+        git submodule sync --recursive  # Synchronize submodule URLs with the superproject
         git submodule update --init --recursive
         git submodule foreach git pull origin main
+
 
     - name: Commit and push if changes are present
       run: |
