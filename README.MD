@@ -6,7 +6,7 @@
     <img src="docs/docs/images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">ND AIMM Main Computer Repository</h3>
+<h3 align="center">ND AIMM Repository</h3>
 
 <p align="center">
     By: The Notre Dame Artifical Intelligence Team
@@ -19,6 +19,8 @@
     <a href="https://github.com/starlight-traveler/nd-aimm-main-computer/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+
+<!-- TABLE OF CONTENTS 
 
 
 ## Getting Started
