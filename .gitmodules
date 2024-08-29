@@ -1,1 +1,5 @@
 
+[submodule "nd-aimm-computer-auxiliary-one"]
+	path = nd-aimm-computer-auxiliary-one
+	url = https://github.com/starlight-traveler/nd-aimm-computer-auxiliary-one.git
+	branch = main
