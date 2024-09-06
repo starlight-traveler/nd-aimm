@@ -11,3 +11,6 @@
 	path = nd-aimm-jupyter-notebooks
 	url = https://github.com/starlight-traveler/nd-aimm-jupyter-notebooks.git
 	branch = main
+[submodule "nd-aimm-pcb-circuits"]
+	path = nd-aimm-pcb-circuits
+	url = https://github.com/starlight-traveler/nd-aimm-pcb-circuits.git
