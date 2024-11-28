@@ -17,3 +17,6 @@
 [submodule "nd-aimm-computer-auxiliary-interconnect"]
 	path = nd-aimm-computer-auxiliary-interconnect
 	url = git@github.com:starlight-traveler/nd-aimm-computer-auxiliary-interconnect.git
+[submodule "nd-aimm-auxiliary"]
+	path = nd-aimm-auxiliary
+	url = https://github.com/starlight-traveler/nd-aimm-auxiliary.git
