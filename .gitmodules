@@ -14,3 +14,6 @@
 [submodule "nd-aimm-pcb-circuits"]
 	path = nd-aimm-pcb-circuits
 	url = https://github.com/starlight-traveler/nd-aimm-pcb-circuits.git
+[submodule "nd-aimm-computer-auxiliary-interconnect"]
+	path = nd-aimm-computer-auxiliary-interconnect
+	url = git@github.com:starlight-traveler/nd-aimm-computer-auxiliary-interconnect.git
