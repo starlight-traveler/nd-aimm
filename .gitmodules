@@ -23,3 +23,6 @@
 [submodule "nd-aimm-dependencies"]
 	path = nd-aimm-dependencies
 	url = https://github.com/starlight-traveler/nd-aimm-dependencies.git
+[submodule "nd-aimm-drone"]
+	path = nd-aimm-drone
+	url = https://github.com/starlight-traveler/nd-aimm-drone.git
