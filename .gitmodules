@@ -20,3 +20,6 @@
 [submodule "nd-aimm-auxiliary"]
 	path = nd-aimm-auxiliary
 	url = https://github.com/starlight-traveler/nd-aimm-auxiliary.git
+[submodule "nd-aimm-dependencies"]
+	path = nd-aimm-dependencies
+	url = https://github.com/starlight-traveler/nd-aimm-dependencies.git
