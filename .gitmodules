@@ -26,3 +26,6 @@
 [submodule "nd-aimm-drone"]
 	path = nd-aimm-drone
 	url = https://github.com/starlight-traveler/nd-aimm-drone.git
+[submodule "nd-aimm-startup-emergency-computer"]
+        path = nd-aimm-startup-emergency-computer
+        url = https://github.com/starlight-traveler/nd-aimm-startup-emergency-computer.git
