@@ -29,3 +29,6 @@
 [submodule "nd-aimm-startup-emergency-computer"]
         path = nd-aimm-startup-emergency-computer
         url = https://github.com/starlight-traveler/nd-aimm-startup-emergency-computer.git
+[submodule "nd-aimm-master-control"]
+        path = nd-aimm-startup-emergency-computer
+        url = https://github.com/starlight-traveler/nd-aimm-master-control.git
